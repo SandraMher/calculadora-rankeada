@@ -2,26 +2,27 @@
 
 Este projeto foi desenvolvido como parte do curso da DIO para treinar a lógica de programação utilizando JavaScript.
 
-## 🧠 Desafio: Classificador de Nível de Herói
+# Calculadora de Partidas Rankeadas
 
-O objetivo do desafio é criar um código que classifica o herói de acordo com sua experiência (XP).
+## Descrição
 
-### 💻 Tecnologias utilizadas
+Este projeto calcula o nível de um jogador baseado nas vitórias e derrotas em partidas ranqueadas. 
+
+## Como usar
+
+- O usuário deve informar a quantidade de vitórias e derrotas.
+- O programa retorna o nível do jogador baseado nas vitórias.
+
+## Tecnologias Utilizadas
 
 - JavaScript
-- VS Code
-- Git e GitHub
 
-### 📌 Níveis de classificação:
+## Como rodar o projeto
 
-- XP < 1000 → Ferro
-- 1001 ≤ XP ≤ 2000 → Bronze
-- 2001 ≤ XP ≤ 5000 → Prata
-- 5001 ≤ XP ≤ 7000 → Ouro
-- 7001 ≤ XP ≤ 8000 → Platina
-- 8001 ≤ XP ≤ 9000 → Ascendente
-- 9001 ≤ XP ≤ 10000 → Imortal
-- XP ≥ 10001 → Radiante
+1. Clone o repositório.
+2. Abra o terminal e execute o arquivo com o comando:
+3. node calculadoraRankeadas.js
+
 
 ---
 
