@@ -1,21 +1,30 @@
-# 🧠 Desafio: Classificador de Nível de Herói
+# Desafio de Lógica de Programação 🚀
 
-Este projeto foi desenvolvido como parte do curso de **Lógica de Programação** da DIO (Digital Innovation One).
+Este projeto foi desenvolvido como parte do curso da DIO para treinar a lógica de programação utilizando JavaScript.
 
-## 💡 Descrição
+## 🧠 Desafio: Classificador de Nível de Herói
 
-O desafio consiste em criar uma estrutura que classifique o nível de um herói com base em sua quantidade de experiência (XP).
+O objetivo do desafio é criar um código que classifica o herói de acordo com sua experiência (XP).
 
-### 🧾 Regras de classificação:
+### 💻 Tecnologias utilizadas
 
-- **Ferro**: XP menor que 1.000  
-- **Bronze**: XP entre 1.001 e 2.000  
-- **Prata**: XP entre 2.001 e 5.000  
-- **Ouro**: XP entre 5.001 e 7.000  
-- **Platina**: XP entre 7.001 e 8.000  
-- **Ascendente**: XP entre 8.001 e 9.000  
-- **Imortal**: XP entre 9.001 e 10.000  
-- **Radiante**: XP maior ou igual a 10.001
+- JavaScript
+- VS Code
+- Git e GitHub
 
-## 📌 Exemplo de saída
+### 📌 Níveis de classificação:
+
+- XP < 1000 → Ferro
+- 1001 ≤ XP ≤ 2000 → Bronze
+- 2001 ≤ XP ≤ 5000 → Prata
+- 5001 ≤ XP ≤ 7000 → Ouro
+- 7001 ≤ XP ≤ 8000 → Platina
+- 8001 ≤ XP ≤ 9000 → Ascendente
+- 9001 ≤ XP ≤ 10000 → Imortal
+- XP ≥ 10001 → Radiante
+
+---
+
+**Desenvolvido por Sandra** 💜  
+LinkedIn https://www.linkedin.com/in/sandramssouza 
 
